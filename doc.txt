@@ -1,0 +1,3 @@
+color code
+black #333333
+ash #8e8e8e

@@ -1,0 +1,631 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.logo h1{
+    font-size: 23px;
+}
+.c_toglr{
+    border: none;
+}
+.c_toglr:focus{
+    box-shadow: none;
+}
+.menu ul li a{
+	font-size: 13px;
+}
+.s-a{
+	padding: 0px;
+}
+.ddm-s:{
+	width: 100%;
+}
+.ddm-s[data-bs-popper] {
+         top: 46px;
+         left: 0px;
+         margin-top: 0;
+}
+/*header end*/
+/*banner start*/
+.bs_item{
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.bs_item h2{
+    font-size: 30px;
+}
+.bs_item p{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.bs_item button{
+    width: 175px;
+    height: 40px;
+    font-size: 15px;
+}
+
+/*banner end*/
+/*welcome start*/
+.top_arrow{
+	margin-bottom: 20px;
+	height: 30px;
+}
+.wel_text {
+    margin: 20px 0px;
+}
+.wel_text p {
+	text-align: justify;
+    line-height: 28px;
+}
+.wel_head h1{
+	font-size: 26px;
+}
+/*welcome end*/
+/*service start*/
+.service {
+    padding: 50px 0px;
+}
+.ser_content{
+    margin-top: 50px;
+}
+.mt_top{
+    margin-top: 0px;
+} 
+/*service end*/
+
+/*about start*/
+.about_content {
+    padding-left: 0;
+    text-align: center;
+}
+.about_content p {
+    text-align: justify;
+}
+.about_content h1{
+    margin-bottom: 15px;
+    font-size: 26px;
+}
+.about_content a{
+    font-size: 14px;
+}
+.about_content button{
+    width: 180px;
+    height: 45px;
+}
+.about {
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+/*about end*/
+
+/*gallery start*/
+.gallery {
+    padding-bottom: 40px;
+}
+.g_mb {
+    margin-bottom: 25px;
+}
+.single_img {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 300px;
+}
+/*gallery end*/
+
+/*choose start*/
+.choose{
+    padding-bottom: 40px;
+}
+.cho_content {
+    text-align: center;
+}
+.cho_content p{
+    text-align: justify;
+}
+/*choose end*/
+
+/*work start*/
+.work{
+    padding-bottom: 40px;
+}
+.wor_content{
+    margin: 0 auto;
+    margin-top: 25px;
+}
+/*work end*/
+
+/*price start*/
+.price{
+    padding-bottom: 40px;
+}
+
+/*price end*/
+
+/*template start*/
+.temp_content{
+    text-align: center;
+}
+.temp_btn {
+     margin-top: 20px;
+    text-align: center;  
+}
+/*template end*/
+
+/*contact start*/
+.contact{
+    padding-bottom: 40px;
+}
+.con_heading h2{
+    font-size: 26px;
+}
+.main_form {
+    margin-top: 40px;
+    padding: 0 20px;
+}
+.full_form{
+    margin-top: 50px;
+}
+/*contact end*/
+
+/*footer start*/
+/*footer top start*/
+.footer_top {
+    padding-bottom: 50px;
+}
+.ft_icon ul li {
+    margin-right: 10px !important;
+    width: 36px;
+    height: 42px;
+}
+.ft_icon ul li a {
+    font-size: 20px;
+    line-height: 40px;
+}
+/*footer top end*/
+/*footer bottom start*/
+.footer_bottom{
+    padding: 35px 0;
+}
+.ftb_text{
+    margin-bottom: 25px;
+    text-align: center;
+}
+.ftb_menu ul{
+    text-align: center ;
+}
+.ftb_menu ul li{
+    margin-right: 20px !important;
+}
+/*footer bottom end*/
+/*footer end*/
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.logo h1{
+    font-size: 27px;
+}
+.c_toglr{
+    border: none;
+}
+.c_toglr:focus{
+    box-shadow: none;
+}
+.menu ul li a{
+	font-size: 14px;
+}
+.s-a{
+	padding: 0px;
+}
+.ddm-s[data-bs-popper] {
+         top: 47px;
+         left: -31px;
+         margin-top: 0;
+}
+
+/*header end*/
+/*banner start*/
+.bs_item{
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.bs_item h2{
+    font-size: 35px;
+}
+.bs_item p{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.bs_item button{
+    width: 175px;
+    height: 40px;
+    font-size: 15px;
+}
+
+/*banner end*/
+/*welcome start*/
+.top_arrow{
+	height: 40px;
+}
+.wel_text {
+    margin: 22px 0px;
+}
+.wel_text p {
+    line-height: 30px;
+}
+.wel_head h1{
+	font-size: 28px;
+}
+/*welcome end*/
+/*service start*/
+.service {
+    padding: 60px 0px;
+}
+.ser_content{
+    margin-top: 50px;
+}
+.mt_0{
+    margin-top: 0px;
+} 
+/*service end*/
+
+/*about start*/
+.about{
+    padding-top: 25px;
+    padding-bottom: 75px;
+}
+.about_content {
+    padding-left: 0;
+    text-align: center;
+    word-spacing: -2px;
+}
+.about_content h1{
+    font-size: 28px;
+}
+
+/*about end*/
+
+/*gallery start*/
+.single_img {
+    margin-top: 20px;
+    width: 250px;
+    
+}
+.gallery {
+    padding-bottom: 50px;
+    
+}
+.g_mb {
+    margin-bottom: 30px;
+}
+.g_menu li {
+    padding: 10px 8px;
+    font-size: 15px;
+}
+/*gallery end*/
+
+/*choose start*/
+.choose{
+    padding-bottom: 50px;
+}
+/*choose end*/
+
+/*work start*/
+.work{
+    padding-bottom: 50px;
+}
+.wor_content{
+    width: 255px;
+}
+.wor_text h2{
+    font-size: 18px;
+}
+.wor_text {
+    padding: 20px 0px 20px 30px;
+}
+
+/*work end*/
+
+/*price start*/
+.price{
+    padding-bottom: 50px;
+}
+.pri_btn{
+    width: 185px;
+}
+/*price end*/
+
+/*template start*/
+.buy_btn{
+    width: 155px;
+}
+.buy_btn a{
+    font-size: 14px;
+}
+.temp_content h2{
+    font-size: 17px;
+}
+/*template end*/
+
+
+/*contact start*/
+.contact{
+    padding-bottom: 50px;
+}
+.con_heading h2{
+    font-size: 28px;
+}
+.main_form {
+    margin-top: 60px;
+    padding: 0 20px;
+}
+/*contact end*/
+
+/*footer start*/
+/*footer top start*/
+.footer_top {
+    padding-bottom: 50px;
+}
+/*footer top end*/
+/*footer bottom start*/
+.footer_bottom{
+    padding: 35px 0;
+}
+.ftb_text{
+    margin-bottom: 25px;
+    text-align: center;
+}
+.ftb_menu ul{
+    text-align: center ;
+}
+.ftb_menu ul li{
+    margin-right: 20px !important;
+}
+/*footer bottom end*/
+/*footer end*/
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+header{
+	padding: 10px 0;
+}
+.logo h1{
+    font-size: 28px;
+}
+.menu ul li a{
+	font-size: 15px;
+}
+.s-a{
+	padding: 0px;
+}
+.ddm-s[data-bs-popper] {
+         top: 42px;
+         left: -37px;
+         margin-top: 0;
+}
+
+/*header end*/
+/*banner start*/
+.bs_item{
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.bs_item h2{
+    font-size: 45px;
+}
+.bs_item p{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.bs_item button{
+    width: 175px;
+    height: 40px;
+}
+
+/*banner end*/
+/*welcome start*/
+.top_arrow{
+	height: 45px;
+}
+.wel_text {
+    margin: 30px 0px;
+}
+/*welcome end*/
+/*service start*/
+.service {
+    padding: 60px 0px;
+}
+.ser_content{
+    margin-top: 50px;
+}
+.mt_0{
+    margin-top: 0px;
+} 
+/*service end*/
+
+/*about start*/
+.about_content {
+    padding-left: 30px;
+}
+.about_content p {
+    margin-bottom: 20px !important;
+}
+.about_content h1{
+    margin-bottom: 10px;
+}
+.about_img img{
+    height: 340px;
+}
+/*about end*/
+
+/*gallery start*/
+.single_img {
+    margin-top: 25px;
+    width: 330px;    
+}
+.gallery {
+    padding-bottom: 65px;
+    
+}
+.g_mb {
+    margin-bottom: 40px;
+}
+/*gallery end*/
+
+/*choose start*/
+.choose{
+    padding-bottom: 65px;
+}
+/*choose end*/
+
+/*work start*/
+.
+.padding-bottom: 65px;
+}
+.wor_content{
+    width: 170px;
+}
+.wor_text h2{
+    font-size: 13px;
+}
+.wor_text {
+    padding: 10px 0px 10px 10px;
+}
+.wor_text p {
+    font-size: 14px;
+}
+.wor_icon {
+    width: 38px;
+    height: 140px;
+}
+.wor_icon li {
+    padding: 2px 10px;
+}
+.wor_icon li a{
+    font-size: 16px;
+    line-height: 32px;
+}
+.wor_content:hover .wor_icon {
+    top: 8%;
+}
+/*work end*/
+
+/*price start*/
+.price{
+    padding-bottom: 65px;
+}
+/*price end*/
+
+/*template start*/
+/*template end*/
+/*contact start*/
+.contact{
+    padding-bottom: 65px;
+}
+/*contact end*/
+
+/*footer start*/
+/*footer top start*/
+.footer_top {
+    padding-bottom: 65px;
+}
+/*footer top end*/
+/*footer bottom start*/
+.footer_bottom{
+    padding: 35px 0;
+}
+.ftb_text{
+    margin-bottom: 25px;
+    text-align: center;
+}
+.ftb_menu ul{
+    text-align: center ;
+}
+.ftb_menu ul li{
+    margin-right: 20px !important;
+}
+/*footer bottom end*/
+/*footer end*/
+}
+
+/* Large devices (Laptop, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*welcome part start*/
+.wel_head h1{
+	font-size: 29px;
+}
+/*welcome end*/
+/*about start*/
+.about_img img{
+    height: 398px;
+}
+/*about end*/
+
+/*gallery start*/
+.single_img {
+    width: 290px;
+}
+/*gallery end*/
+
+/*work start*/
+.wor_content{
+    width: 230px;
+}
+.wor_text h2{
+    font-size: 17px;
+}
+.wor_text {
+    padding: 20px 0px 20px 20px;
+}
+
+/*work end*/
+
+/*price start*/
+.pri_btn{
+    width: 150px;
+}
+.amount{
+    font-size: 31px;
+} 
+/*price end*/
+
+
+}	
+
+/* Extra Large devices (desktops, 1192px and up)*/
+@media (min-width: 1192px) and (max-width: 1399.98px) {
+    /*about start*/
+.about_content p {
+    line-height: 25px;
+}
+.last_p {
+    margin: 25px 0px 30px 0px;
+}
+.about_content h1{
+    margin-bottom: 25px;
+}
+/*about end*/
+
+
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+/*about start*/
+.about_content p {
+    line-height: 30px;
+}
+.last_p {
+    margin: 25px 0px 50px 0px;
+}
+.about_content h1{
+    margin-bottom: 50px;
+}
+/*about end*/
+
+
+}
